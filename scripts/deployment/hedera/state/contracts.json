@@ -1,0 +1,98 @@
+[
+    {
+        "name": "TransparentUpgradeableProxy",
+        "id": "0.0.4598027",
+        "address": "0x000000000000000000000000000000000046290b",
+        "timestamp": "2023-05-08T07:39:50.666Z",
+        "hash": ""
+    },
+    {
+        "name": "GOLD",
+        "id": "0.0.4598024",
+        "address": "0x0000000000000000000000000000000000462908",
+        "timestamp": "2023-05-08T07:39:50.667Z",
+        "hash": "",
+        "transparentProxyAddress": "0x000000000000000000000000000000000046290b",
+        "transparentProxyId": "0.0.4598027"
+    },
+    {
+        "name": "TransparentUpgradeableProxy",
+        "id": "0.0.4598031",
+        "address": "0x000000000000000000000000000000000046290f",
+        "timestamp": "2023-05-08T07:40:05.597Z",
+        "hash": ""
+    },
+    {
+        "name": "GoldVault",
+        "id": "0.0.4598029",
+        "address": "0x000000000000000000000000000000000046290d",
+        "timestamp": "2023-05-08T07:40:05.598Z",
+        "hash": "",
+        "transparentProxyAddress": "0x000000000000000000000000000000000046290f",
+        "transparentProxyId": "0.0.4598031"
+    },
+    {
+        "name": "TransparentUpgradeableProxy",
+        "id": "0.0.4598038",
+        "address": "0x0000000000000000000000000000000000462916",
+        "timestamp": "2023-05-08T07:40:29.458Z",
+        "hash": ""
+    },
+    {
+        "name": "GBAR",
+        "id": "0.0.4598033",
+        "address": "0x0000000000000000000000000000000000462911",
+        "timestamp": "2023-05-08T07:40:29.459Z",
+        "hash": "",
+        "transparentProxyAddress": "0x0000000000000000000000000000000000462916",
+        "transparentProxyId": "0.0.4598038"
+    },
+    {
+        "name": "TransparentUpgradeableProxy",
+        "id": "0.0.4598042",
+        "address": "0x000000000000000000000000000000000046291a",
+        "timestamp": "2023-05-08T07:40:44.157Z",
+        "hash": ""
+    },
+    {
+        "name": "GBARVault",
+        "id": "0.0.4598040",
+        "address": "0x0000000000000000000000000000000000462918",
+        "timestamp": "2023-05-08T07:40:44.158Z",
+        "hash": "",
+        "transparentProxyAddress": "0x000000000000000000000000000000000046291a",
+        "transparentProxyId": "0.0.4598042"
+    },
+    {
+        "name": "TransparentUpgradeableProxy",
+        "id": "0.0.4598047",
+        "address": "0x000000000000000000000000000000000046291f",
+        "timestamp": "2023-05-08T07:41:03.383Z",
+        "hash": ""
+    },
+    {
+        "name": "GoldStakeVault",
+        "id": "0.0.4598044",
+        "address": "0x000000000000000000000000000000000046291c",
+        "timestamp": "2023-05-08T07:41:03.385Z",
+        "hash": "",
+        "transparentProxyAddress": "0x000000000000000000000000000000000046291f",
+        "transparentProxyId": "0.0.4598047"
+    },
+    {
+        "name": "TransparentUpgradeableProxy",
+        "id": "0.0.4598055",
+        "address": "0x0000000000000000000000000000000000462927",
+        "timestamp": "2023-05-08T07:41:22.843Z",
+        "hash": ""
+    },
+    {
+        "name": "FeeDistributor",
+        "id": "0.0.4598052",
+        "address": "0x0000000000000000000000000000000000462924",
+        "timestamp": "2023-05-08T07:41:22.844Z",
+        "hash": "",
+        "transparentProxyAddress": "0x0000000000000000000000000000000000462927",
+        "transparentProxyId": "0.0.4598055"
+    }
+]
